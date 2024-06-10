@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/mattgallagher/CwlCatchException.git",
         "state": {
           "branch": null,
-          "revision": "f809deb30dc5c9d9b78c872e553261a61177721a",
-          "version": "2.0.0"
+          "revision": "3ef6999c73b6938cc0da422f2c912d0158abb0a0",
+          "version": "2.2.0"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/mattgallagher/CwlPreconditionTesting.git",
         "state": {
           "branch": null,
-          "revision": "c21f7bab5ca8eee0a9998bbd17ca1d0eb45d4688",
-          "version": "2.1.0"
+          "revision": "2ef56b2caf25f55fa7eef8784c30d5a767550f54",
+          "version": "2.2.1"
         }
       },
       {
@@ -42,8 +42,17 @@
         "repositoryURL": "https://github.com/pointfreeco/swift-case-paths",
         "state": {
           "branch": null,
-          "revision": "bb436421f57269fbcfe7360735985321585a86e5",
-          "version": "0.10.1"
+          "revision": "3c4eea896f8ee9cbe1c11d1d3d46b0f2809da958",
+          "version": "0.12.0"
+        }
+      },
+      {
+        "package": "xctest-dynamic-overlay",
+        "repositoryURL": "https://github.com/pointfreeco/xctest-dynamic-overlay",
+        "state": {
+          "branch": null,
+          "revision": "50843cbb8551db836adec2290bb4bc6bac5c1865",
+          "version": "0.9.0"
         }
       }
     ]
